@@ -6,4 +6,5 @@ Hi there!👋 This is a quick snapshot of my data projects, highlighting my skil
 - [Python](https://github.com/kikizm/Data#python)
 - [Dashboard](https://github.com/kikizm/Data#dashboard)
 
+
 # 📂 SQL
