@@ -18,4 +18,4 @@ Hi there!👋 This is a quick snapshot of my data projects, highlighting my skil
 
 **Skills:** SQL querying, Data aggregation and grouping, Filtering and sorting data, Data-driven insights
 
-**Technology:** SQL Server
+**Technology:** SQL 
