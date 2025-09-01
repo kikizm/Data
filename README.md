@@ -15,6 +15,7 @@ Hi there!👋 This is a quick snapshot of my data projects, highlighting my skil
 **Goal:** To analyze Airbnb listings in New York City and identify which areas have the highest concentration of listings.
 
 **Description:** This is a project based on the Airbnb New York City 2019 that aims to analyze various aspects of rental properties in New York. The analysis is conducted using SQL to answer several questions related to neighborhood distribution, host characteristics, pricing patterns, property availability throughout the year, and review trends as indicators of listing popularity. 
+
 **Skills:** SQL querying, Data aggregation and grouping, Filtering and sorting data, Data-driven insights
 
 **Technology:** SQL 
