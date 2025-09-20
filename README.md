@@ -21,7 +21,7 @@ Hi there!👋 This is a quick snapshot of my data projects, highlighting my skil
 **Technology:** BigQuery 
 
 
-# Project 1 – FMCG Sales Dashboard
+# Project 2 – FMCG Sales Dashboard
  
 **Code:** [Building a Predictive Sales Dashboard for FMCG](https://github.com/kikizm/Building-a-Predictive-Sales-Dashboard-for-FMCG)
 
