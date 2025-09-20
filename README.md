@@ -18,4 +18,22 @@ Hi there!👋 This is a quick snapshot of my data projects, highlighting my skil
 
 **Skills:** SQL querying, Data aggregation and grouping, Filtering and sorting data, Data-driven insights
 
-**Technology:** SQL 
+**Technology:** BigQuery 
+
+
+# Project 1 – FMCG Sales Dashboard
+ 
+**Code:** [Building a Predictive Sales Dashboard for FMCG](https://github.com/kikizm/Building-a-Predictive-Sales-Dashboard-for-FMCG)
+
+**Goal:** To analyze FMCG sales performance across time, promotion, channels, regions, and product lifecycle to identify key drivers of growth and support business decision-making.
+
+**Description:** This project focuses on analyzing FMCG transactional sales data (2022–2024) of SKU MI-006. Using SQL for data preprocessing and Power BI for visualization, the dashboard highlights weekly sales trends, the impact of promotions, sales contribution by channel and region, and product lifecycle analysis. The insights help companies optimize pricing, inventory management, distribution, and promotional strategies to enhance overall business performance. 
+
+**Skills:** 
+- SQL querying and preprocessing (handling duplicates, NULL values, outliers, data consistency checks)
+- Data visualization with Power BI (interactive dashboards, trend analysis, contribution analysis)
+- Business insight generation (promotion impact, lifecycle management, regional and channel optimization)
+
+**Technology:** 
+- SQL (Data Cleaning & Preprocessing)
+- Power BI (Visualization & Dashboard)
