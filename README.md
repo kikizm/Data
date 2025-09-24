@@ -37,3 +37,6 @@ Hi there!👋 This is a quick snapshot of my data projects, highlighting my skil
 **Technology:** 
 - SQL (Data Cleaning & Preprocessing)
 - Power BI (Visualization & Dashboard)
+
+
+# 📂 PYTHON
