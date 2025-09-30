@@ -40,3 +40,15 @@ Hi there!👋 This is a quick snapshot of my data projects, highlighting my skil
 
 
 # 📂 PYTHON
+
+# Project 3 – Interactive Dashboard for Skincare Product
+
+**Code:** [Interactive Dashboard for Skincare Product Segmentation using K-Means Clustering](https://github.com/kikizm/Interactive-Dashboard-for-Skincare-Product-Segmentation-using-K-Means-Clustering)
+
+**Goal:** The goal of this project is to build an interactive decision-support tool that segments skincare products using K-Means Clustering, enabling businesses to gain real-time insights on product distribution and consumer preferences for better marketing, pricing, and inventory strategies.
+
+**Description:** This project develops an interactive dashboard for skincare product segmentation using the K-Means Clustering algorithm. By analyzing product attributes such as price, average rating, and total reviews, skincare products are grouped into distinct clusters (mass-market, mid-range, premium, and niche). The interactive dashboard, built with Streamlit, enables businesses to explore segmentation results in real-time and extract actionable insights for marketing strategy, inventory management, and brand positioning. The goal is to move beyond static spreadsheets and provide decision-makers with a practical decision-support tool that simplifies data analysis, accelerates insight discovery, and strengthens competitive advantage in the skincare market.
+
+**Skills:** Data preprocessing, Exploratory Data Analysis (EDA), Unsupervised Learning, Data visualization, Dashboard Development
+
+**Technology:** Python, Streamlit, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
